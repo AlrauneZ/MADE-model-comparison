@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/329326997.svg)](https://zenodo.org/badge/latestdoi/329326997)
+
 # Overview
 
 Project files of Manuscript "A Comparison of Six Transport Models of the MADE-1 Experiment Implemented with Different Types of Hydraulic Data". 
