@@ -1,0 +1,3 @@
+ogs5py==1.1.1
+scipy
+matplotlib
